@@ -1,8 +1,8 @@
 module.exports = {
-    TOKEN: "",
+    TOKEN: "MTAwNjI4MTQ3Mjk1ODc5NTkxOA.GwGOQl.5nd2o-1yxQmY8I4N6adPe0HEb5UgTEzYJBGK9g",
     ownerID: "", //write your discord user id.
     botInvite: "", //write your discord bot invite.
-    status: '❤️ Umut Bayraktar',
+    status: '❤️ .gg/mya ❤️',
     commandsDir: './commands', //Please don't touch
 
     opt: {
